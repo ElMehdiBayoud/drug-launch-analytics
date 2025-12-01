@@ -1,0 +1,12 @@
+# Data files
+*.csv
+*.parquet
+*.zip
+/data/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# System files
+.DS_Store
