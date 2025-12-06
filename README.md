@@ -40,7 +40,7 @@ This repository contains the code, exploratory analysis, and modeling pipeline u
 
 ## 📊 Key Results
 * **Best Model:** HistGradientBoosting
-* **Performance:** ROC-AUC **0.735** | PR-AUC **0.512**
+* **Performance:** ROC-AUC **0.735** | PR-AUC **0.51**
 * **Business Impact:** The top 1% of the model's ranked list contains **78% true early adopters**, offering a **2.9x efficiency gain** over random selection.
 
 ## 📜 License
